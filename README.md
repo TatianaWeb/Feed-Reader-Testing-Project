@@ -3,7 +3,7 @@
 This is my repository for Udacity's  project#4 using Udacity starter code (forked from udacity/frontend-nanodegree-feedreader (https://github.com/udacity/frontend-nanodegree-feedreader)).
 
 
-[Live version of the game](https://tatianaweb.github.io/Arcade_Game/)
+[Live version of the tests]
 
 ## Development Strategy
 
